@@ -25,7 +25,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languajes**:
     
     ![Java](https://img.shields.io/badge/java-marker?style=for-the-badge&logo=java&logoColor=red&labelColor=red&color=red)
     ![JavaScript](https://img.shields.io/badge/javascript-marker?style=for-the-badge&logo=javascript&color=orange)
