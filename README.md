@@ -118,7 +118,7 @@
 
 <br>
 
-<li>
+<li style="list-style:none">
 <a href="https://wa.me/573108409484?text=Hola%20Eliecer!,%20estoy%20interesado%20en%20tus%20servicios" target="_blank">
 <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoSize=auto&labelColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
