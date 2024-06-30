@@ -100,9 +100,9 @@
 <br>
 <div align='left'>
 
-<ul style="list-style:none;">
+<ul style="list-style: none;">
 
-<li>
+<li list-style: none;>
 <a href="https://www.linkedin.com/in/eliecer-ureche-0b7660179" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  EliecerUreche-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
