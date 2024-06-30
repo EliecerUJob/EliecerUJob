@@ -25,18 +25,22 @@
 
 <p align="center">
 
-- **Languajes**:
+- **Desarrollo front-end**:
     
     ![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoSize=auto&labelColor=white)
+    ![CSS](https://img.shields.io/badge/css-orange?style=for-the-badge&logo=css3&logoSize=auto&labelColor=blue)
     ![JavaScript](https://img.shields.io/badge/javascript-marker?style=for-the-badge&logo=javascript&color=orange)
+    ![TypeScript](https://img.shields.io/badge/typescript-orange?style=for-the-badge&logo=typescript&logoSize=auto&labelColor=white)
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-orange?style=for-the-badge&logo=bootstrap&logoSize=auto&labelColor=white)
+    ![Tailwind](https://img.shields.io/badge/tailwind-orange?style=for-the-badge&logo=tailwindcss&logoSize=auto&labelColor=white)
 
 <br>   
     
-- **Desarrollo backend**:
+- **Desarrollo back-end**:
 
+   ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoSize=auto&labelColor=white)
    ![SPRING](https://img.shields.io/badge/spring_framework-marker?style=for-the-badge&logo=spring&color=white)
-   ![EXPRESS](https://img.shields.io/badge/express.js-marker?style=for-the-badge&logoColor=green&color=green)
-
+   
 <br>
 
 - **Cloud Hosting**:
