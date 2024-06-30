@@ -100,31 +100,22 @@
 <br>
 <div align='left'>
 
-<ul style="list-style: none;">
-
-<li list-style: none;>
 <a href="https://www.linkedin.com/in/eliecer-ureche-0b7660179" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  EliecerUreche-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="mailto:elieceru.job@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Eliecerureche-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="https://wa.me/573108409484?text=Hola%20Eliecer!,%20estoy%20interesado%20en%20tus%20servicios" target="_blank">
 <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoSize=auto&labelColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 	
-</ul>
 </div>
 
 <br>
