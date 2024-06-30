@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hola, soy Eliecer Ureche</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- Gif acerca de mi -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&center=true&vCenter=true&random=true&width=800&height=200&lines=+Estudiante+de+ing.+de+sistemas;+Apasionado+por+el+desarrollo+backend;+Interesado+en+el+desarrollo+de+videojuegos;+Realizo+deporte+en+mi+tiempo+libre" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&center=true&vCenter=true&random=true&width=800&height=200&lines=+Estudiante+de+ing.+de+sistemas;+Apasionado+por+el+desarrollo+web;+Interesado+en+el+desarrollo+de+videojuegos;+Realizo+deporte+en+mi+tiempo+libre" alt="Typing SVG" /></a>
 
 <br>
 
@@ -12,7 +12,7 @@
 <br>
 
 - Estudiante de ing. de sistemas
-- Apasionado por el desarrollo backend
+- Apasionado por el desarrollo web
 - Interesado en el desarrollo de videojuegos
 - Realizo deporte en mi tiempo libre
 
