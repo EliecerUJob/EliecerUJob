@@ -27,7 +27,8 @@
 
 - **Languajes**:
     
-    ![Html](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&labelColor=white)
+    ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoSize=auto&labelColor=white)
+
     ![JavaScript](https://img.shields.io/badge/javascript-marker?style=for-the-badge&logo=javascript&color=orange)
 
 <br>   
