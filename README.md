@@ -29,7 +29,7 @@
     ![JavaScript](https://img.shields.io/badge/javascript-marker?style=for-the-badge&logo=javascript&color=orange)
     ![TypeScript](https://img.shields.io/badge/typescript-orange?style=for-the-badge&logo=typescript&logoSize=auto&labelColor=white)
     ![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoSize=auto&labelColor=white)
-    ![Static Badge](https://img.shields.io/badge/Playwright-white?style=flat&logoColor=white)
+    ![Static Badge](https://img.shields.io/badge/Playwright-white?style=for-the-badge&logoColor=white)
    
 <br>
 
